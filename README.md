@@ -35,8 +35,8 @@ A Streamlit dashboard built to monitor simulated IT helpdesk operations across m
 2.**Set up a virtual environment**
 
     ```Bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3.**Install dependencies**
 
