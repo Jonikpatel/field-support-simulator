@@ -1,6 +1,7 @@
 # Field Support Ticket Simulator
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://field-support-simulator.streamlit.app/)
+[![PDF Report](https://img.shields.io/badge/PDF-Dashboard_Report-red?logo=adobeacrobatreader&logoColor=white)](./docs/dashboard-report.pdf)
 
 A Streamlit dashboard built to monitor simulated IT helpdesk operations across multi-site field offices. Tracks ticket spikes, resolution times, SLA compliance, and recurring failure categories during phased software rollouts.
 
